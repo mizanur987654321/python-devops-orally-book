@@ -17,6 +17,9 @@ Build out Python Project Scaffold:
 * command-line-tool
 * Microservice
 
+Build out python project scafold:
+* Makefile ($ touch Makefile)
+* 
 ### AWS CloudShell 
 ### AWS Cloud9 (which is a full phase cloud based environment)
 
