@@ -36,9 +36,16 @@ Steps to follow in Codespaces cmd:
 * virtualenv ~/.venv (to create a virtual directory under home directory invisibly)
 
 More steps to follow for virtual environment:
-More steps to follow for virtual environment:
-* Edit  my vim ~/.bashrc (so every time it loads when I will have interpreter)
-* to source my python environment source ~/.venv/bin/activate
+* Edit  my vim ~/.bashrc (so every time it loads when I will have interpreter) ty type
+* Type source ~/.venv/bin/activate to source my python environment
+* Then you would see ((.venv)  would appears in the left hand side of $
+* Type python --version to see current version of python
+* Type which python to see the python directory
+* Type which git status to see the git directory
+* type git add * to see all people on github public
+* Type git commit _m “adding structure” to see all file changes 
+
+
 
 
 
