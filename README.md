@@ -5,7 +5,7 @@
 ## Create a project scaffold
 Create cloud based environment/tools such as:
 ### Colab Notebook - 
-* Colab is the same as jupiter notebook, created by Google. This is just an example how to use Google Colab. For more about [colab] (https://colab.research.google.com/)
+* Colab is the same as jupiter notebook, created by Google. This is just an example how to use Google Colab. For more about [colab](https://colab.research.google.com/)
 
 ### GitHub Codespaces
 ### AWS CloudShell 
