@@ -4,7 +4,8 @@
 
 ## Create a project scaffold
 Create cloud based environment/tools such as:
-### Colab Notebook
+### Colab Notebook - is the same as jupiter notebook, created by Google. For more about [colab] https://colab.research.google.com/
+
 ### GitHub Codespaces
 ### AWS CloudShell 
 ### AWS Cloud9 (which is a full phase cloud based environment)
