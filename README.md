@@ -8,6 +8,15 @@ Create cloud based environment/tools such as:
 * Colab is the same as jupiter notebook, created by Google. This is just an example how to use Google Colab. For more about [colab](https://colab.research.google.com/)
 
 ### GitHub Codespaces
+Build out Python Project Scaffold:
+* makefile (it is like a set of recipies or a cook book that can be reproduced when needed) )
+* requirements.txt (where we would have list of packages to be installed)
+* test_library.py
+* python_library 
+* Dockerfile (is used to create containers)
+* command-line-tool
+* Microservice
+
 ### AWS CloudShell 
 ### AWS Cloud9 (which is a full phase cloud based environment)
 
