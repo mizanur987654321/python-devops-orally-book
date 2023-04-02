@@ -19,7 +19,30 @@ Build out Python Project Scaffold:
 
 Build out python project scafold:
 * Makefile ($ touch Makefile)
-* 
+* requirements.txt
+* test_library.py
+* python_library
+* Dockerfile
+* command-line-tool
+* Microservice
+
+Steps to follow in Codespaces cmd:
+* touch Makefile to create an empty file
+* touch requirements.txt
+* mkdir devopslib
+* touch devopslib/__init__.py
+* touch hello.py
+* touch test_hello.py
+* virtualenv ~/.venv (to create a virtual directory under home directory invisibly)
+
+More steps to follow for virtual environment:
+More steps to follow for virtual environment:
+* Edit  my vim ~/.bashrc (so every time it loads when I will have interpreter)
+* to source my python environment source ~/.venv/bin/activate
+
+
+
+
 ### AWS CloudShell 
 ### AWS Cloud9 (which is a full phase cloud based environment)
 
