@@ -9,7 +9,7 @@ Create cloud based environment/tools such as:
 
 ### GitHub Codespaces
 Build out Python Project Scaffold:
-* makefile (it is like a set of recipies or a cook book that can be reproduced when needed) )
+* Makefile (it is like a set of recipies or a cook book that can be reproduced when needed) )
 * requirements.txt (where we would have list of packages to be installed)
 * test_library.py
 * python_library 
